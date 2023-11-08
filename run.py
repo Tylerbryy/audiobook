@@ -29,7 +29,7 @@ SAMPLE_RATE = 22050
 HISTORY_PROMPT = "en_speaker_1"
 
 # Path to your file
-file_path = r'books-txt\Killers of the Flower Moon (David Grann) (Z-Library).txt'  
+file_path = r'books-txt\Of Mice and Men (John Steinbeck) (Z-Library).txt'  
 
 # Extract text from file
 long_string = extract_text_from_file(file_path)
